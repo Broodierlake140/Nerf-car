@@ -17,5 +17,6 @@
     	thinking on how to use a single servo to hold the spring in place while allowing the spring to be unsprung by it turning
 
      	7:35 Pm ATD
-      	Decided to make a winch box by having a motor attached to a gear and wire unravelling enough wire to allow the spring to fully extend and 	allowing for easy repulling with a lock so that when the spring is released it fully extends instantly.
+     	Decided to make a winch box by having a motor attached to a gear and wire unravelling enough wire to allow the spring to fully extend and 
+	allowing for easy repulling with a lock so that when the spring is released it fully extends instantly.
        
