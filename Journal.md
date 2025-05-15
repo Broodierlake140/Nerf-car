@@ -37,4 +37,10 @@
 
 	8:08 Pm ATD
 	Break 
+
+	8:29 Pm ATD
+ 	I'm resuming looking for an o-ring possibly 20mm wide
+
+  	8:35 Pm ATD
+   	Break for muchies
        
