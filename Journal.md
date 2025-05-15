@@ -19,4 +19,7 @@
      	7:35 Pm ATD
      	Decided to make a winch box by having a motor attached to a gear and wire unravelling enough wire to allow the spring to fully extend and 
 	allowing for easy repulling with a lock so that when the spring is released it fully extends instantly.
+
+ 	7:37 Pm ATD 
+  	Trying to fix the formatting, again
        
