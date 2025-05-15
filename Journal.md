@@ -29,11 +29,11 @@
   	7:43 Pm ATD
    	Looking for O-ring and spring still
 
-    	7:48 Pm ATD
-     	Discovered i had in fact found a spring
+	7:48 Pm ATD
+	Discovered i had in fact found a spring
 
-      	8:06 Pm ATD
-       	I went and found motors, went looking for gears and found a motor board, also found nerf bullets a while ago before break, unsure when.
+	8:06 Pm ATD
+	I went and found motors, went looking for gears and found a motor board, also found nerf bullets a while ago before break, unsure when.
 
 	8:08 Pm ATD
 	Break 
