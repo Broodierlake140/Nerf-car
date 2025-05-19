@@ -44,39 +44,39 @@
   	8:35 Pm ATD
    	Break for muchies
 
-     	May 15 7:36 ATD
-      	I ended up not coming back from the break, got disctracted. 
+	May 15 7:36 ATD
+	I ended up not coming back from the break, got disctracted. 
 	Looking for tank tread wheels
- 	I got sidetracked and started looking at the clip mechanism for nerf clips
+	I got sidetracked and started looking at the clip mechanism for nerf clips
 
-  	7:59 ATD 
-   	Break
+	7:59 ATD 
+	Break
 
-    	8:09 Pm ATD
-     	Booted up cad to start to sketch out the plunger
+	8:09 Pm ATD
+	Booted up cad to start to sketch out the plunger
 
-      	8:12 Pm ATD 
-       	Realised the cad i had doesn't seem to have a option to even add a cube?
+	8:12 Pm ATD 
+	Realised the cad i had doesn't seem to have a option to even add a cube?
 	Started looking for another cad
 
- 	8:15 ATD 
-  	break
+	8:15 ATD 
+	break
 
-    	8:43 ATD
-     	Started looking for a the oring i need while installing freecad
+	8:43 ATD
+	Started looking for a the oring i need while installing freecad
 
-      	8:50 ATD
-       	Quick checking something(unrelated to the project time doesnt count)
+	8:50 ATD
+	Quick checking something(unrelated to the project time doesnt count)
 
- 	9:38 PM ATD
-  	Starting modeling on the plunger
+	9:38 PM ATD
+	Starting modeling on the plunger
 
-   	10:09 Pm ATD
-    	taking a break to consider how the boolean sucks on that
+	10:09 Pm ATD
+	taking a break to consider how the boolean sucks on that
 
 
-     	May 19 1:28 PM ATD
-      	Refxing formatting, for like the fifth time ;-;
+	May 19 1:28 PM ATD
+	Refxing formatting, for like the fifth time ;-;
 
      	
 
