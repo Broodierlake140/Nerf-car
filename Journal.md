@@ -21,7 +21,18 @@ I went and adjusted the length of the nozzle as well as adding indentation to th
 ![screenshot (3)](https://github.com/user-attachments/assets/88bb269b-7bf9-4684-b8ac-20ff188a2217)
 
 
-
 #12:15-12:27 
 I worked on making the main body of the nerf gun
 ![screenshot (4)](https://github.com/user-attachments/assets/10ffdac0-738d-46cb-8f38-03010b47f54a)
+
+
+#6:55 Pm Atd 
+I'm starting to make some internal mechanisms for the main body
+
+
+
+#7:08 Pm Atd
+
+I managed to unclog the nozzle in the model so air can go through
+![7 06Pm-2025-05-23](https://github.com/user-attachments/assets/019c1874-c105-4b49-8104-38d1fac35c08)
+
