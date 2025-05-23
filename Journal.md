@@ -19,3 +19,9 @@ I managed to finish the inner nossle(what i had just called the barrel)
 I went and adjusted the length of the nozzle as well as adding indentation to the plunger 
 ![screenshot (2)](https://github.com/user-attachments/assets/a5e4bbe0-ab10-493d-b669-c6dd706430bb)
 ![screenshot (3)](https://github.com/user-attachments/assets/88bb269b-7bf9-4684-b8ac-20ff188a2217)
+
+
+
+#12:15-12:27 
+I worked on making the main body of the nerf gun
+![screenshot (4)](https://github.com/user-attachments/assets/10ffdac0-738d-46cb-8f38-03010b47f54a)
