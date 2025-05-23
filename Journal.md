@@ -36,3 +36,9 @@ I'm starting to make some internal mechanisms for the main body
 I managed to unclog the nozzle in the model so air can go through
 ![7 06Pm-2025-05-23](https://github.com/user-attachments/assets/019c1874-c105-4b49-8104-38d1fac35c08)
 
+
+
+#8:24 Pm Atd-8:45 Pm Atd
+I realized that the nozzle is too long so i have to remake it
+![Capture](https://github.com/user-attachments/assets/54711310-5ced-4bf8-8340-72d2b7981ac4)
+
