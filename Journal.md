@@ -42,3 +42,9 @@ I managed to unclog the nozzle in the model so air can go through
 I realized that the nozzle is too long so i have to remake it
 ![Capture](https://github.com/user-attachments/assets/54711310-5ced-4bf8-8340-72d2b7981ac4)
 
+
+#8:45 Pm Atd-9:13 Pm Atd
+I'm starting to work on some of the internal mechanisms such as the spring slots
+![6](https://github.com/user-attachments/assets/c89a3954-0109-464a-a335-713620f4bdc1)
+
+
